@@ -6,7 +6,7 @@
 * cd AdvPhishing/
 * chmod 777 start.sh
 * ./start.sh
-* ./An-AdvPhishing.sh
+* ./instagramhack.sh
 # Contact For Contribute & Issues 
 
                                       EMAIL FOR ISSUES AND CONTRIBUTE : jerryshravan@gmail.com
