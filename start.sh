@@ -27,7 +27,7 @@ chmod 7777 instagramhack.sh
 clear
 echo ""
 echo ""
-read -p $'\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m]\e[0m\e[1;32m Enter The Ngrok Token [Ex. ./ngrok authtoken SHRAVAN] : \e[0m' token
+read -p $'\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m]\e[0m\e[1;32m Enter The Ngrok Token [Ex. ./ngrok authtoken 2020JS] : \e[0m' token
 $./ngrok authtoken 1dZVrxwoGwWjEMP4a9IoYdv0Tig_2jVL3oEUPfrrBcZjcXTYH
 sleep 2
 clear
