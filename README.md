@@ -3,7 +3,7 @@
 
 # INSTALLATION [ TERMUX APP --ANDROID ]
 * git clone https://github.com/shravanjerry/Instagram-hack.git
-* cd AdvPhishing/
+* cd Instagram-hack/
 * chmod 777 start.sh
 * ./start.sh
 * ./instagramhack.sh
