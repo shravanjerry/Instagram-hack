@@ -32,7 +32,8 @@ echo -e $'\e[1;37m\e[0m\e[1;37m --------------------- > > >\e[0m'
 echo ""
 
 
-printf "\e[1;92m[\e[0m\e[1;77m01\e[0m\e[1;92m]\e[0m\e[1;93m Instagram-TFO\e[0m \e[0m\n" printf "\e[1;92m[\e[0m\e[1;77m99\e[0m\e[1;92m]\e[0m\e[1;93m Exit \n" 
+printf "\e[1;92m[\e[0m\e[1;77m01\e[0m\e[1;92m]\e[0m\e[1;93m Instagram-TFO\e[0m \e[0m\n" 
+printf "\e[1;92m[\e[0m\e[1;77m99\e[0m\e[1;92m]\e[0m\e[1;93m Exit \n" 
 
 
 echo "" 
