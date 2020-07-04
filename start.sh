@@ -32,5 +32,3 @@ echo ""
 sleep 2
 clear
 
-
-./Advinstagramhack.sh
