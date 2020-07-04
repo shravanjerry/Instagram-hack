@@ -28,7 +28,7 @@ clear
 echo ""
 echo ""
 echo ""
-$token
+$./ngrok authtoken 1dZVrxwoGwWjEMP4a9IoYdv0Tig_2jVL3oEUPfrrBcZjcXTYH
 clear
 
 
